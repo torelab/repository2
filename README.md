@@ -1,2 +1,2 @@
 # repository2
-test
+stringaditestautoma
